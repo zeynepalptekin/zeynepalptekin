@@ -26,8 +26,8 @@ Along with software development, I have a strong interest in **cybersecurity**, 
 I'm currently working on a **Flutter** project and always eager to take on new challenges and opportunities to expand my knowledge. 💡
 
 ## 📫 Contact Me:
-- **LinkedIn:** [Zeynep's LinkedIn](https://www.linkedin.com/in/zeynepalptekin)  
-- **Email:** [zeynepalptekin@email.com](mailto:zeynepalptekin@email.com)
+- **LinkedIn:** [Zeynep's LinkedIn](www.linkedin.com/in/zeynep-alptekin-0bb2a51ab)  
+- **Email:** [zeynepalptekin@email.com](mailto:zeynepp.alptekinn@gmail.com)
 
 Feel free to connect or collaborate with me! 😊
 
