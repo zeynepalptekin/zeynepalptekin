@@ -27,7 +27,7 @@ I'm currently working on a **Flutter** project and always eager to take on new c
 
 ## 📫 Contact Me:
 - **LinkedIn:** [Zeynep's LinkedIn](https://www.linkedin.com/in/zeynep-alptekin-0bb2a51ab/)  
-- **Email:** [zeynepalptekin@email.com](mailto:zeynepp.alptekinn@gmail.com)
+- **Email:** [zeynepp.alptekinn@email.com](mailto:zeynepp.alptekinn@gmail.com)
 
 Feel free to connect or collaborate with me! 😊
 
