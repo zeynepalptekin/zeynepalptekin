@@ -1,6 +1,9 @@
 # Hi, I'm Zeynep 👋
 
-I'm a **Senior Computer Programming** student, and I'm also pursuing a minor in **Information Security Technologies**. Passionate about continuous learning, I'm actively working on improving my software development skills. 🌱
+🎓 Graduate in Computer Programming & Information Security Technologies  
+💻 Currently studying Web Design  
+🌱 Passionate about continuous learning and improving my software development skills
+
 
 ## 💻 My Skills
 
